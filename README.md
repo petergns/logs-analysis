@@ -107,6 +107,7 @@ This is achieved by:
 Run the commmand python project_log_analysis.py in order to start the queries.
 
 Module Output:
+
 ![Image of Output](https://github.com/petergns/logs-analysis/blob/master/Queries%20Finished.PNG)
 
 ## Author
