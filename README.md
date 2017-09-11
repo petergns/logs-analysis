@@ -29,7 +29,7 @@ You will need the following other resources for it to run:
 
 ### Preparing the Virtual Machine
 <ol>
-  <li>Use git clone https://github.com/ to clone this repository..
+  <li>Use git clone https://github.com/petergns/logs-analysis.git to clone this repository.
   <li>Navigate to the cloned repository using Git i.e. cd desktop/logs-analysis/vagrant
   <li>Run the command 'vagrant up' to download and install the linux operating system
   <li>Run the command 'vagrant ssh' to log in to the virtual machine
@@ -115,4 +115,3 @@ Module Output:
 
 ## Acknowledgments
 Acknowledgments to [Udacity](https://www.udacity.com/) for the resources that helped me develop this.
-
