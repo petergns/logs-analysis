@@ -39,7 +39,7 @@ You will need the following other resources for it to run:
 ### Setup the Database
 After the initial setup it can be accessed through the psql -d news command 
 <ol>
-  <li>Download the newsdata.psl file [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+  <li>Download the <a href="https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip">newsdata.psql file</a>
   <li>Unzip and move this file to the vagrant folder of the virtual machine
   <li>Run the command psql -d news -f newsdata.sql 
 </ol>
