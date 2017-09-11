@@ -39,9 +39,9 @@ You will need the following other resources for it to run:
 ### Setup the Database
 After the initial setup it can be accessed through the psql -d news command 
 <ol>
-  <li>Download the newsdata.psl file
+  <li>Download the newsdata.psl file [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
   <li>Unzip and move this file to the vagrant folder of the virtual machine
-  <li>Run the command psql -d news -f newsdata.sql
+  <li>Run the command psql -d news -f newsdata.sql 
 </ol>
 
 ### Contents of the Module
