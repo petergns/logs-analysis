@@ -35,6 +35,11 @@ You will need the following other resources for it to run:
   <li>Run the command 'vagrant ssh' to log in to the virtual machine
   <li>Install Psycopg2 with sudo apt-get install python-psycopg2
  </ol>
+ 
+### Updating the Virtual Machine
+
+While running the Virtual Machine, you may be required to update the distribution. Do so using the command:
+```sudo do-release-upgrade```
 
 ### Setup the Database
 After the initial setup it can be accessed through the psql -d news command 
