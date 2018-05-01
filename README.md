@@ -39,7 +39,10 @@ You will need the following other resources for it to run:
 ### Updating the Virtual Machine
 
 While running the Virtual Machine, you may be required to update the distribution. Do so using the command:
-```sudo do-release-upgrade```
+```
+sudo apt-get update
+sudo do-release-upgrade
+```
 
 ### Setup the Database
 After the initial setup it can be accessed through the psql -d news command 
